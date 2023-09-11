@@ -1,6 +1,4 @@
 # Super-Store-Sales-Dashboard
-#Project Objective
-The objective of the Store Sales Dashboard project is to provide a comprehensive and visually appealing data-driven solution for monitoring and analyzing sales performance in our retail stores. By leveraging the power of Microsoft Power BI, this project aims to empower decision-makers and store managers with real-time insights into sales data, enabling them to make informed decisions, identify trends, and optimize sales strategies.
 
 # Project Objective
 
