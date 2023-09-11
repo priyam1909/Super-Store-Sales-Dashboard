@@ -38,7 +38,8 @@ The outcome of this project will be a user-friendly and intuitive interface that
 ### 6. Data-driven Decision Making
 
 Ultimately, the Store Sales Dashboard will empower our organization to make data-driven decisions. By providing a centralized platform for sales data analysis, this project will enhance our ability to respond to market changes, improve sales strategies, and optimize store performance.
-DASHBOARD
+
+#DASHBOARD
  ![Screenshot (16)](https://github.com/priyam1909/Super-Store-Sales-Dashboard/assets/100475347/4811c37e-d315-4052-ac23-2679540d3b8d)
 
 
